@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping pattern="LogPas" type="PLAIN_TEXT" />
       <mapping pattern="prs" type="ProGuard File" />
       <mapping pattern="afg" type="Properties" />
+      <mapping pattern="LogPass" type="SPI" />
     </extensionMap>
   </component>
 </application>

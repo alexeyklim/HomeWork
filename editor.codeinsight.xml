@@ -1,5 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
     <EXCLUDED_PACKAGE NAME="com.codeborne.selenide.Selenide.$" />
+    <EXCLUDED_PACKAGE NAME="com.thoughtworks" />
+    <EXCLUDED_PACKAGE NAME="org.testng.Assert.assertEquals" />
+    <EXCLUDED_PACKAGE NAME="org.testng.AssertJUnit.assertEquals" />
   </component>
 </application>

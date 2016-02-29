@@ -63,4 +63,8 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="D:/IBA/SeleniumWebDriver/Calculator/Calculator.iml" />
+    <option name="myPathToSceneBuilder" value="D:/IBA/SeleniumWebDriver/Calculator/Calculator.iml" />
+  </component>
 </application>
